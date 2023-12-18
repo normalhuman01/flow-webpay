@@ -8,7 +8,7 @@ setConfig({
   failureUrl: 'http://localhost:3000/failure',
   key: Assets.getText('production.pem'),
   publicKey: Assets.getText('flow.pubkey'),
-  email: 'nicolaslopezj@me.com',
+  email: 'normalhuman@gmail.com',
   confirm: confirm,
   paymentTypes: 1,
   integrationType: 'd',
