@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'nicolaslopezj:flow',
+  name: 'normalhuman:flow',
   version: '0.1.7',
   summary: 'Flow payments for Meteor',
   git: '',
